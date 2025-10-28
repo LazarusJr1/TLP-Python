@@ -1,0 +1,14 @@
+Este vídeo tutorial, apresentado por Vinícius Rocha, ensina de forma simples o que são APIs (Application Programming Interfaces) e como utilizá-las. 
+Faz isto por focar-se na construção de uma aplicação web que busca e exibe letras de músicas usando uma API externa.
+
+Vinícius inicia por explicar o conceito de API como uma interface de programação de aplicações, 
+um conjunto de regras que permite a comunicação entre diferentes softwares. 
+Detalha os componentes de uma API: endpoints (URLs a que se fazem requisições),
+ métodos HTTP (GET para obter dados, POST para enviar, PUT para atualizar e DELETE para deletar), 
+ headers (informações adicionais, como autenticação),
+ e o body (corpo da requisição, geralmente em formato JSON e as vezes em XML).
+
+O vídeo finaliza com uma demonstração da aplicação em funcionamento, 
+mostrando exemplos com diferentes bandas e músicas, 
+incluindo o tratamento de casos com e sem espaços nos nomes e a correta manipulação de respostas da API. 
+Vinícius acaba por enfatizar a facilidade de uso do Python para este tipo de desenvolvimento e incentiva os espectadores a se inscreverem ao seu canal.
