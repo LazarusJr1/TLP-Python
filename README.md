@@ -1,2 +1,2 @@
 # TLP-Python
-Scripts de Python feitos em TLP. Inclue Python e PyGame.
+Todos os scripts de python feitos nas minhas aulas de TLP. Eventualmente irei renomear os ficheiros e por comentários em todos. Este reposítório existe solamente para prepositos de arquivo.
